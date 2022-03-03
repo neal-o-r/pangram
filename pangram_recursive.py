@@ -1,5 +1,5 @@
 """
-A simpler but ~10x slower implementation
+A simpler but MUCH slower implementation
 """
 
 from collections import defaultdict
